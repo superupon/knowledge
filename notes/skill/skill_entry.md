@@ -8,7 +8,7 @@
 * [Vim](vim/vim_entry.md)
 * [awk](awk/awk_entry.md)
 * [grep](grep/grep_entry.md)
-* [Performance](performance/performanceEntry.md)
+* [Performance](performance/performance_entry.md)
 
 ```mermaid
 mindmap
