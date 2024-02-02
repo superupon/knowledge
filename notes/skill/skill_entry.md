@@ -9,6 +9,7 @@
 * [awk](awk/awk_entry.md)
 * [grep](grep/grep_entry.md)
 * [Performance](performance/performance_entry.md)
+* [markdown](markdown/md_entry.md)
 
 ```mermaid
 mindmap
@@ -22,4 +23,5 @@ root((Skills))
   awk
   grep
   Performance
+  markdown
 ```
