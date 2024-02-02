@@ -1,9 +1,9 @@
 `awk` is a powerful text processing tool that is standard on most Unix systems. Learning `awk` can greatly enhance your ability to manipulate and process text files. Here's a step-by-step guide to better learn `awk`:
 
 1. **Understand the Basics**:
-   - `awk` is a programming language designed for text processing. It operates on a line-by-line basis and applies a series of rules (or one-liners) to each line.
+   - `awk` is a programming language designed for text processing. It operates on a line-by-line basis and applies a series of rules (or one-liners) to each line. 
    - The basic syntax is: `awk 'pattern { action }' file`.
-   (It's a programming language !! I originally thought it was only a command.)
+   *(It's a programming language ❗ I originally thought it was only a command. )* 😲
 
 2. **Start with Simple Examples**:
    - Print all lines: `awk '{print}' file`
