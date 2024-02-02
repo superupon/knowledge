@@ -1,14 +1,14 @@
 # Skills
 
-* [AI](AI/AIEntry.md)
-* [CShell](CShell/CShellEntry.md)
-* [Cmd](Cmd/CmdEntry.md)
-* [Makefile](Makefile/MakefileEntry.md)
-* [Sed](Sed/SedEntry.md)
-* [Vim](Vim/VimEntry.md)
-* [awk](awk/AwkEntry.md)
-* [grep](grep/GrepEntry.md)
-* [Performance](Performance/PerformanceEntry.md)
+* [AI](ai/ai_entry.md)
+* [CShell](cshell/cshell_entry.md)
+* [Cmd](cmd/cmd_entry.md)
+* [Makefile](makefile/makefile_entry.md)
+* [Sed](sed/sed_entry.md)
+* [Vim](vim/vim_entry.md)
+* [awk](awk/awk_entry.md)
+* [grep](grep/grep_entry.md)
+* [Performance](performance/performanceEntry.md)
 
 ```mermaid
 mindmap
