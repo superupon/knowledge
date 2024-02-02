@@ -1,9 +1,9 @@
 # All Notes Entry Point here
 
 ## Entries
-* [Efficient](Efficient/EfficientEntry.md)
-* [Record](Record/RecordEntry.md)
-* [Skill](Skill/SkillEntry.md)
+* [Efficient](efficient/efficient_entry.md)
+* [Record](record/record_entry.md)
+* [Skill](skill/skill_entry.md)
 
 ```mermaid
 mindmap
