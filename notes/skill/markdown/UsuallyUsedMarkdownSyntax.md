@@ -14,3 +14,25 @@ Please use this doc for more details.
 ## Links
 
 `[Link Text](Link URL#Section)`
+
+## Footnotes
+Simple footnote [^1]
+[^1]: Just a simple note
+
+*This can not be previewed by vscode editor*
+
+## Alerts
+> [!NOTE]
+> Useful information that users should know
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
