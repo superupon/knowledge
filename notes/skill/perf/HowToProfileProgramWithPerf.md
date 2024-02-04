@@ -1,6 +1,6 @@
 # How to profile your running program with perf
 
-## Why no symbol names?
+## Why no symbol names, only address?
 Sometimes, you may find that perf does not show any symbol name, only address. Then please check your perf, which perf your are using?
 
 With debug version of application, it will show a lot of information and call graph are almost accurate. But `RelWithDebInfo` still can not show a lot of information.
