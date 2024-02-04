@@ -2,3 +2,8 @@
 
 ## Why no symbol names?
 Sometimes, you may find that perf does not show any symbol name, only address. Then please check your perf, which perf your are using?
+
+## Commands freqently used
+* `perf stat -d -d -- [your command]`
+* `perf record -F max -g -- [your command]` and `perf report`
+
