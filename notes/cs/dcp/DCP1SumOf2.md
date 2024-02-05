@@ -36,8 +36,7 @@ Analysis: This method compares each element with the difference of k and the ele
 
 By sorting the data first, we can use binary search to find the complementary value for each element.
 
-cpp
-Copy code
+```cpp
 bool TwoSumSortAndBinarySearch(std::vector<int> data, int k) {
     std::sort(data.begin(), data.end());
     int index = 1;
@@ -49,22 +48,8 @@ bool TwoSumSortAndBinarySearch(std::vector<int> data, int k) {
     });
     return iterFind != data.end();
 }
-The complexity of this solution depends on the sorting algorithm (typically 
-�
-(
-�
-log
-⁡
-�
-)
-O(nlogn)) and the binary search for each element (
-�
-(
-log
-⁡
-�
-)
-O(logn)).
+```
+The complexity of this solution depends on the sorting algorithm (typically  $O(N*log_2(n)))$ and the binary search for each element $(log_2 N⁡$), so totally $O(N*log_2(N)))$.
 
 ## Solution 3: Sort + Two Pointers
 
