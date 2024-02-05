@@ -19,7 +19,8 @@ It will be deloyed on most of linux system
 
 ## For compile time
 1. **collect** (we can still use it with '-collect' in compile command line)
-2. **perf**
+2. **perf** 
+   1. [Perf Usage](HowToProfileProgramWithPerf.md)
    
 # Backlink
 [Performance Analysis Record](../../Record/PerformanceAnalysis.md)
