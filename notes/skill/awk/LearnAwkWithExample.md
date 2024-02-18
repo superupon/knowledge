@@ -23,7 +23,7 @@ Example:
 ```bash
 awk -F ":" '{print $1}' /etc/passwd
 ```
-$1 stands for the first field seperated.
+$1 stands for the first field separated.
 
 ## External Scripts
 ```bash

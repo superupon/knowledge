@@ -12,7 +12,7 @@
       - For **Time Module View**, it can give you basic context of the performance issue. Performance issue sometimes is complicated. It need more related data and different dimension of data to get better understanding.
       - When you find xprofile shows a lot of time consumed in kernel, you should use collect to see if there are any heavy function is runtime lib call
 4. **perf**
-It will be deloyed on most of linux system
+It will be deployed on most of linux system
 
 > [!NOTE]
 > **collect** and **xprofile** can not be used at the same time. Please pay attention
